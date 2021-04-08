@@ -1,0 +1,32 @@
+.modal-header{
+    padding: 5px 15px;
+    background-color: rgb(160, 160, 160);
+}
+.modal-title
+{
+    font-size: 18px;
+    color:#fff;
+}
+.modal-footer{
+    padding: 5px 15px;
+}
+
+.actionBtnContainer{
+    display: flex;
+    align-items: center;
+}
+
+.actionBtnContainer>button{
+    border: none;
+    margin: 0 5px;
+    font-size: 14px;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+}
+
+.icon-style{
+font-size: 18px;
+margin-right: 5px;
+color:rgb(113, 187, 255)
+}
